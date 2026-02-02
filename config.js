@@ -16,12 +16,12 @@ const CONFIG = {
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
         bears: ['🧸', '🐻'],                       // Cute bear emojis
-        Avacado: ['🍌'],
-        Fox: ['🦊'],
-        Giraffe: ['🦒'],
-        Blue_Jay: ['🔵🐦'],
-        Avocado: ['🥑']
-    },
+        Avocado: ['🍌'],                           // Cute bear emojis
+        Fox: ['🦊'],                               // Cute bear emojis
+        Giraffe: ['🦒'],                           // Cute bear emojis
+        Blue_Jay: ['🐦'],                         // Cute bear emojis
+        Avocado: ['🥑']                          // Cute bear emojis
+    }
 
     // Questions and answers
     // Customize each question and its possible responses

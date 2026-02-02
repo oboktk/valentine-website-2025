@@ -16,7 +16,7 @@ const CONFIG = {
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓', '🥑'], // Added Avocado here
         bears: ['🧸', '🐻', '🦊', '🦒', '🐦', '🍌']  // Added animals and banana here
-    }
+    },
 
     // Questions and answers
     // Customize each question and its possible responses

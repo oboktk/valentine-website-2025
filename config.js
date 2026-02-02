@@ -12,11 +12,11 @@ const CONFIG = {
     pageTitle: "💝",
 
     // Floating emojis that appear in the background
-    // Find more emojis at: https://emojipedia.org// Floating emojis that appear in the background
+    // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓', '🥑'], // Added Avocado here
         bears: ['🧸', '🐻', '🦊', '🦒', '🐦', '🍌']  // Added animals and banana here
-    }
+    },
 
     // Questions and answers
     // Customize each question and its possible responses
